@@ -1,8 +1,8 @@
-This is #LeetCode's official curated list of Top classic interview questions to help you land your dream job. Our top interview questions are divided into the following series:
+This is LeetCode's official curated list of Top classic interview questions to help you land your dream job. Our top interview questions are divided into the following series:
 
-#Easy Collection
-#Medium Collection
-#Hard Collection
+Easy Collection
+Medium Collection
+Hard Collection
 to help you master Data Structure & Algorithms and improve your coding skills.
 
 Just like any other skills, coding interview is one area where you can greatly improve with deliberate practice.
